@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  color: blueviolet;
+  width: 300px;
+  border: 10px solid gray;
+  padding: 20px;
+  margin: 10px;
+}
+
+.images {
+  width: 20%;
+  height: 20%;
+  margin: 10px;
+  float: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+table {
+  width: 50%;
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 10px;
+  float: left;
+}
