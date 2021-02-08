@@ -10,14 +10,16 @@ p {
   margin: 10px;
 }
 
-.images {
+img {
   width: 20%;
   height: 20%;
   margin: 10px;
   float: center;
 }
 
-table, th, td {
+table, 
+th, 
+td {
   border: 1px solid black;
 }
 
